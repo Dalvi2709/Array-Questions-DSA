@@ -1,4 +1,4 @@
-public class check_duplicate {
+public class cheack_target {
     public static void main(String[] args) {
         int arr [] = {1,4,6,3,7,5,4};
         int target = 4;
